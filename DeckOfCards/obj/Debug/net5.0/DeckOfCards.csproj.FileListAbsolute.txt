@@ -1,0 +1,15 @@
+/Users/christiansouvenir/Desktop/c#_projects/DeckOfCards/bin/Debug/net5.0/DeckOfCards.deps.json
+/Users/christiansouvenir/Desktop/c#_projects/DeckOfCards/bin/Debug/net5.0/DeckOfCards.runtimeconfig.json
+/Users/christiansouvenir/Desktop/c#_projects/DeckOfCards/bin/Debug/net5.0/DeckOfCards.runtimeconfig.dev.json
+/Users/christiansouvenir/Desktop/c#_projects/DeckOfCards/bin/Debug/net5.0/DeckOfCards.dll
+/Users/christiansouvenir/Desktop/c#_projects/DeckOfCards/bin/Debug/net5.0/ref/DeckOfCards.dll
+/Users/christiansouvenir/Desktop/c#_projects/DeckOfCards/bin/Debug/net5.0/DeckOfCards.pdb
+/Users/christiansouvenir/Desktop/c#_projects/DeckOfCards/obj/Debug/net5.0/DeckOfCards.csprojAssemblyReference.cache
+/Users/christiansouvenir/Desktop/c#_projects/DeckOfCards/obj/Debug/net5.0/DeckOfCards.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christiansouvenir/Desktop/c#_projects/DeckOfCards/obj/Debug/net5.0/DeckOfCards.AssemblyInfoInputs.cache
+/Users/christiansouvenir/Desktop/c#_projects/DeckOfCards/obj/Debug/net5.0/DeckOfCards.AssemblyInfo.cs
+/Users/christiansouvenir/Desktop/c#_projects/DeckOfCards/obj/Debug/net5.0/DeckOfCards.csproj.CoreCompileInputs.cache
+/Users/christiansouvenir/Desktop/c#_projects/DeckOfCards/obj/Debug/net5.0/DeckOfCards.dll
+/Users/christiansouvenir/Desktop/c#_projects/DeckOfCards/obj/Debug/net5.0/ref/DeckOfCards.dll
+/Users/christiansouvenir/Desktop/c#_projects/DeckOfCards/obj/Debug/net5.0/DeckOfCards.pdb
+/Users/christiansouvenir/Desktop/c#_projects/DeckOfCards/obj/Debug/net5.0/DeckOfCards.genruntimeconfig.cache
