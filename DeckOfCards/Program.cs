@@ -11,7 +11,6 @@ namespace DeckOfCards
             Console.WriteLine("Deck Of Cards");
             Deck Bicycle = new Deck ();
             Bicycle.Shuffle();
-            // Bicycle.ShowCards();
             List<Player> Players = new List<Player>()
             {
                 new Player("Chris"),
